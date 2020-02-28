@@ -379,4 +379,14 @@ a:focus {
 		height: 25px;
 		border: 1px solid #fff;
 	}
+
+
+#legend {
+	font-size: 0.85em;
+	font-style: italic;
+	font-weight: lighter;
+}
+
+.important {
+	font-weight: bold;
 }
